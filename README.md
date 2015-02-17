@@ -1,11 +1,10 @@
 # tft666
 
-This is a Fork of  fenlogic/vga666 enabling the full DPI peripheral interface allowing use of tft "Raw dot clock" displays. 
+This is a Fork of  fenlogic/vga666 
 
-## Licence
+The aim of this repo is to provide device trees and example configs for any one attampting to use a DPI screen with a RaspberryPi B+.
 
-VGA adaptor for the Raspberry-Pi computer.
 
-Copyright © 2014 Fen Logic Ltd. 
+This is a work in progress, for now more information here: http://www.raspberrypi.org/forums/viewtopic.php?f=100&t=86658&start=150
 
-This document and the related databases are free: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version. This document and the related databases are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this database. If not, see http://www.gnu.org/licenses/
+I'll do a write up once this is stableish.
