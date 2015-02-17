@@ -1,0 +1,10 @@
+###
+# For use with the adafruit 5' tft only.
+##
+
+enable_dpi_lcd=1
+dpi_output_format=458759
+hdmi_cvt=800 480 60 6 //800x480 @ 60hz - 18bit
+dpi_group=2
+dpi_mode=87 # Hdmi CVT
+display_default_lcd=1
