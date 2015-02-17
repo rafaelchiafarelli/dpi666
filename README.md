@@ -1,6 +1,6 @@
-# vga666
+# tft666
 
-Passive VGA adapter 666 for Raspberry-Pi B+
+This is a Fork of  fenlogic/vga666 enabling the full DPI peripheral interface allowing use of tft "Raw dot clock" displays. 
 
 ## Licence
 
