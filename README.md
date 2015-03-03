@@ -1,4 +1,4 @@
-# tft666
+# dpi666
 
 This is a Fork of  fenlogic/vga666 
 
@@ -7,4 +7,5 @@ The aim of this repo is to provide device trees and example configs for any one 
 
 This is a work in progress, for now more information here: http://www.raspberrypi.org/forums/viewtopic.php?f=100&t=86658&start=150
 
-I'll do a write up once this is stableish.
+A full write will be available here in a few days.
+http://blog.reasonablycorrect.com/raw-dpi-raspberry-pi/
