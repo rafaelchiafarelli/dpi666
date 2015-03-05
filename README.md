@@ -7,5 +7,4 @@ The aim of this repo is to provide device trees and example configs for any one 
 
 This is a work in progress, for now more information here: http://www.raspberrypi.org/forums/viewtopic.php?f=100&t=86658&start=150
 
-A full write will be available here in a few days.
-http://blog.reasonablycorrect.com/raw-dpi-raspberry-pi/
+A full write up is avaiable here: http://blog.reasonablycorrect.com/raw-dpi-raspberry-pi/
