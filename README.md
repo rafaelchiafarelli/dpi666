@@ -1,6 +1,6 @@
-# dpi666
+# dpi565 - dpi configuration for cheap 2.8 inch display
 
-This is a Fork of  fenlogic/vga666 
+This is a Fork of  fenlogic/vga565
 
 The aim of this repo is to provide device trees and example configs for any one attampting to use a DPI screen with a RaspberryPi B+.
 
